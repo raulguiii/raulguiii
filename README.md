@@ -1,6 +1,6 @@
 ## Sobre
 🚀 Desenvolvedor Fullstack | Freelance & Sistemas Empresariais  
-🎓 Formado na Faculdade Impacta e cursando Engenharia da Computação na Anhembi Morumbi  
+🎓 Formado em Análise e Desenvolvimento de Sistemas na Faculdade Impacta e cursando Engenharia da Computação na Anhembi Morumbi  
 
 ## Linguagens
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></img> 
