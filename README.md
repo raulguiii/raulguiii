@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></img> 
 <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&style=for-the-badge&logoColor=white"></img> 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"></img> 
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"></img> 
+<img src="https://img.shields.io/badge/Design%20Patterns-02569B?style=for-the-badge&logoColor=white"></img> 
 <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white"></img> 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></img> 
 <img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&style=for-the-badge&logoColor=white"></img> 
