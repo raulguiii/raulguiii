@@ -40,7 +40,7 @@
 - 📊 [**GCD RECICLA**](https://gcd-reciclagem.up.railway.app/)  
   Sistema de controle de gastos, funcionando na GCD RECICLAGEM, empresa de Arujá.
 
-- 📊 [**DESCOBRE CATALISADOR**](https://descobre-catalisador.up.railway.app/) 
+- 📊 [**DESCOBRE CATALISADOR**](https://descobre-catalisador.up.railway.app/)
   Sistema para descobrir qual o catalisador correto para cada veículo, usado em 4 empresas de reciclagem.
 
 - ♻️ [**HJ Metais**](https://hj-metais-sucata-production.up.railway.app/)  
