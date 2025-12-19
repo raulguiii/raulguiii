@@ -37,8 +37,11 @@
 - 🚌 [**Roteiros Garagem**](https://roteiros-garagem-production.up.railway.app/)  
   Plataforma de gerenciamento de roteiros de transporte, funcionando na Prefeitura de Itaquaquecetuba.  
 
-- 📊 [**Alfasys**](https://alfasys.up.railway.app/index.html)  
-  Sistema de gestão e análise de dados, funcionando no Grupo Alfa - Arujá.  
+- 📊 [**GCD RECICLA**](https://gcd-reciclagem.up.railway.app/)  
+  Sistema de controle de gastos, funcionando na GCD RECICLAGEM, empresa de Arujá.
+
+- 📊 [**DESCOBRE CATALISADOR**](https://descobre-catalisador.up.railway.app/))  
+  Sistema para descobrir qual o catalisador correto para cada veículo, usado em 4 empresas de reciclagem.
 
 - ♻️ [**HJ Metais**](https://hj-metais-sucata-production.up.railway.app/)  
   Sistema de controle para empresa de reciclagem e sucata, funcionando na HJ-Metais - Itaquaquecetuba.  
